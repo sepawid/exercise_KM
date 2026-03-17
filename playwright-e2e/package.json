@@ -1,0 +1,12 @@
+{
+  "name": "random-date-e2e",
+  "version": "1.0.0",
+  "description": "Playwright Automation for Random Date Generator",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0",
+    "@types/node": "^20.11.24"
+  }
+}
