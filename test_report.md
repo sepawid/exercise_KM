@@ -1,7 +1,7 @@
 # Test Execution Report: Random Date Generator
 
 **Date of Testing:** March 6, 2026  
-**Tested By:** [Your Name] / QA Automation Engineer Candidate  
+**Tested By:** Sebastian / QA Automation Engineer Candidate  
 **Time Spent:** 1 Hour (Timeboxed Exercise)  
 **System Under Test:** [https://codebeautify.org/generate-random-date](https://codebeautify.org/generate-random-date)
 
